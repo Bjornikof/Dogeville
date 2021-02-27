@@ -1,4 +1,5 @@
 # Dogeville | The Website Project
+Dogeville is a dog mating site that I created as my graduation project. It is made with Angular and Spring. I plan to work on it and develop it further. It currently lacks only one core function that was planned: messaging.
 ## Home Page
 ![Dogeville Home Page](https://i.ibb.co/0J3P8MC/dogeville-home.png "Dogeville Home Page")
 
